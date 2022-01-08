@@ -8,6 +8,7 @@ I have spending my days to learn new technologies.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+:star: Here are some projects that I'm working on:
 - [UfakAt](https://play.google.com/store/apps/details?id=com.app.ufakat)
 - [Cıvıl](https://github.com/hkaya15/Civil)
 - [FoodApp-UI](https://github.com/hkaya15/Food-App-UI-Flutter/tree/master/FoodApp)
