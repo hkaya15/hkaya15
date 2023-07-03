@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">I have spending my days to learn new technologies.</h3>
 
-- 🔭 I’m currently working on [UfakAt](https://play.google.com/store/apps/details?id=com.app.ufakat&gl=TR)
-
 - 🌱 I’m currently learning **JS,React,GoLang**
 
 - 📫 How to reach me **kayahuseyin15@gmail.com**
