@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">I have spending my days to learn new technologies.</h3>
 
-- 🌱 I’m currently learning **Node.Js**
 
 - 📫 How to reach me **kayahuseyin15@gmail.com**
 
